@@ -7,5 +7,6 @@ public class NewTest {
         int a=0;
         List<Integer> myList = new ArrayList<Integer>();
         String str;
+        String[] arrStr;
     }
 }
