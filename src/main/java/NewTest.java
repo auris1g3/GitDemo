@@ -8,5 +8,6 @@ public class NewTest {
         List<Integer> myList = new ArrayList<Integer>();
         String str;
         String[] arrStr;
+        Integer[] arrInt;
     }
 }
