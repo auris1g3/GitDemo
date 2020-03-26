@@ -6,5 +6,6 @@ public class Test {
         System.out.println("Hello");
         int a=0;
         List<Integer> myList = new ArrayList<Integer>();
+        String str;
     }
 }
