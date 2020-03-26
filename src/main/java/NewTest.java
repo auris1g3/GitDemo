@@ -8,4 +8,7 @@ public class NewTest {
         List<Integer> myList = new ArrayList<Integer>();
         String str;
     }
+    public static void sayHello(){
+        System.out.println("Hello");
+    }
 }
