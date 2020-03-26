@@ -11,4 +11,7 @@ public class NewTest {
     public static void sayHello(){
         System.out.println("Hello");
     }
+    public static void sayBye(){
+        System.out.println("Bye");
+    }
 }
