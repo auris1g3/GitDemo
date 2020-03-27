@@ -14,4 +14,7 @@ public class NewTest {
     public static void sayBye(){
         System.out.println("Bye");
     }
+    public static Integer sum(int a, int b){
+        return a+b;
+    }
 }
