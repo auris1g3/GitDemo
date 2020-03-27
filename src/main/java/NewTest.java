@@ -10,4 +10,13 @@ public class NewTest {
         String[] arrStr;
         Integer[] arrInt;
     }
+    public static void sayHello(){
+        System.out.println("Hello");
+    }
+    public static void sayBye(){
+        System.out.println("Bye");
+    }
+    public static Integer sum(int a, int b){
+        return a+b;
+    }
 }
